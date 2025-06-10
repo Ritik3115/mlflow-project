@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ritik/mlflow-project/mlruns/0/0e345c6dba184cf1986a342cf3014317/artifacts
+end_time: 1749682142314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e345c6dba184cf1986a342cf3014317
+run_name: languid-bird-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682140515
+status: 3
+tags: []
+user_id: ritik

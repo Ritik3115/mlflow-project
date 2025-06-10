@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ritik/mlflow-project/mlruns/0/bf7ae93fa33841acb0a46e301d14a3d6/artifacts
+end_time: 1749639694986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf7ae93fa33841acb0a46e301d14a3d6
+run_name: funny-koi-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749639691476
+status: 3
+tags: []
+user_id: ritik

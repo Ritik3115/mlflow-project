@@ -1,2 +1,16 @@
 numpy==2.3.0
 pandas==2.3.0
+mlflow
+notebook
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+catboost
+-e .

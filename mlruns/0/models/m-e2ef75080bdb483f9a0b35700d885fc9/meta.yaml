@@ -1,0 +1,10 @@
+artifact_location: file:///home/ritik/mlflow-project/mlruns/0/models/m-e2ef75080bdb483f9a0b35700d885fc9/artifacts
+creation_timestamp: 1749682030085
+experiment_id: '0'
+last_updated_timestamp: 1749682032688
+model_id: m-e2ef75080bdb483f9a0b35700d885fc9
+model_type: null
+name: model
+source_run_id: 224b8ac9e527410b9cbf52bb408cdee1
+status: 2
+status_message: null

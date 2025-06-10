@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ritik/mlflow-project/mlruns/0/8386feabcf934623a383cec32b1964b3/artifacts
+end_time: 1749677807127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8386feabcf934623a383cec32b1964b3
+run_name: efficient-ox-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749677804921
+status: 3
+tags: []
+user_id: ritik

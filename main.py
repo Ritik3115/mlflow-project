@@ -1,9 +1,9 @@
-from Mlflow_project import logger
-from Mlflow_project.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-from Mlflow_project.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
-from Mlflow_project.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
-from Mlflow_project.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
-from Mlflow_project.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
+from  Mlflow_project import logger
+from  Mlflow_project.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from  Mlflow_project.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
+from  Mlflow_project.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
+from  Mlflow_project.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
+from  Mlflow_project.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 
 
 

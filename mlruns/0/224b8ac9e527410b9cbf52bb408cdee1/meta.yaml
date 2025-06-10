@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ritik/mlflow-project/mlruns/0/224b8ac9e527410b9cbf52bb408cdee1/artifacts
+end_time: 1749682032690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224b8ac9e527410b9cbf52bb408cdee1
+run_name: illustrious-dove-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682030068
+status: 3
+tags: []
+user_id: ritik
