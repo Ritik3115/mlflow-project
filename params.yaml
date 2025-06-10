@@ -1,0 +1,7 @@
+CatBoostRegressor:
+    n_estimators: 481
+    depth: 6
+    learning_rate: 0.010378470327964833
+    subsample: 0.8070332123540407
+    l2_leaf_reg: 1.0350337270088312
+    
