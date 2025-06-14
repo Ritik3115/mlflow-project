@@ -64,8 +64,11 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI="your URI"
+
 MLFLOW_TRACKING_USERNAME="your username"
+
 MLFLOW_TRACKING_PASSWORD="your password"
+
 python script.py
 
 Run this to export as env variables:
